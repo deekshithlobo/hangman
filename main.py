@@ -3,7 +3,7 @@
 import random
 from words import word_list 
 from design import stages,logo
-
+#just a comment to check version
 wrong_guesses=[]
 print(logo)
 chosen_word = random.choice(word_list)
